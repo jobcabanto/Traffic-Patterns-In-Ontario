@@ -4,7 +4,7 @@ Being an aspiring data scientist and a university student with no driving privil
 
 Tools/Technologies Used:
 - Python
-- SQL
+- SQL (sqlite)
 - Tableau
 - Google Maps Platform (Directions API)
 
