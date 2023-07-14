@@ -11,6 +11,6 @@ Tools/Technologies Used:
 Data Parameters:
 - Alternate routes may be used if it's faster to get from Milton to Orillia
 - Travel time is calculated only using the 'driving' mode
-- All three traffic models were used to see contrast between worst and best case scenario
-- Data collected covers two months (8 weeks) worth of data from 8:00AM to 8:00PM with 30 minute intervals in between
+- All three traffic models were used to see contrast between the worst and best-case scenario
+- Data collected covers two months (8 weeks) worth of data from 8:00 AM to 8:00 PM with 30-minute intervals in between
   
