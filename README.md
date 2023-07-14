@@ -8,9 +8,9 @@ Tools/Technologies Used:
 - Tableau
 - Google Maps Platform (Directions API)
 
-Data Parameters:
+Project Parameters:
 - Alternate routes may be used if it's faster to get from Milton to Orillia
 - Travel time is calculated only using the 'driving' mode
-- All three traffic models were used to see contrast between the worst and best-case scenario
+- All three traffic models were used to see the contrast between the worst and best-case scenario
 - Data collected covers two months (8 weeks) worth of data from 8:00 AM to 8:00 PM with 30-minute intervals in between
   
