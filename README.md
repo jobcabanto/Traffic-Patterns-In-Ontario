@@ -12,6 +12,6 @@ Project Parameters:
 - Alternate routes may be used if it's faster to get from Milton to Orillia
 - Travel time is calculated only using the 'driving' mode
 - All three traffic models were used to see the contrast between the worst and best-case scenario
-- The database stores two months (8 weeks) worth of personalized data
-    - Personalization: ETAs from 8:00 AM to 8:00 PM with 30-minute intervals in between (25 timestamps/day)
+- The database stores two months (8 weeks) worth of collected data
+    - Frequency: ETAs from 8:00 AM to 8:00 PM with 30-minute intervals in between (25 timestamps per day)
   
