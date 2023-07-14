@@ -1,4 +1,4 @@
-# TrafficStudy
+# Traffic Patterns in Ontario
 
 Being an aspiring data scientist and a university student with no driving privileges to see my girlfriend, I've decided to analyze traffic data from southern Ontario to northern Ontario. More specifically, the route from Milton to Orillia. 
 
