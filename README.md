@@ -13,5 +13,5 @@ Project Parameters:
 - Travel time is calculated only using the 'driving' mode
 - All three traffic models were used to see the contrast between the worst and best-case scenario
 - The database stores two months (8 weeks) worth of collected data
-    - Frequency: ETAs from 8:00 AM to 8:00 PM with 30-minute intervals in between (25 timestamps per day)
+    - Frequency: Includes ETAs from 8:00 AM to 8:00 PM with 30-minute intervals in between (25 timestamps per day)
   
