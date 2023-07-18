@@ -1,0 +1,8 @@
+
+50 (30 minute intervals) * 3 (traffic modes) * 7 (data in a week) * 8 (2 months of data) = 4200 requests
+
+# Duplicates on August 06th, 2023
+_________________________________________________________
+
+1694174400 = Sunday, September 8th, 2023, 08:00:00AM EST 
+* 86400 = next day
