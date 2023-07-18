@@ -15,4 +15,4 @@ Project Parameters:
 - The database stores two months (8 weeks) worth of collected data
     - Frequency: Includes ETAs from 8:00 AM to 8:00 PM with 30-minute intervals in between (25 timestamps per day)
   
-![alt text]([https://github.com/jobcabanto/Traffic-PatternsIn-Ontario/blob/res/Main.png?raw=true)
+![alt text]([https://github.com/jobcabanto/Traffic-PatternsIn-Ontario/blob/main/Main.png?raw=true)
